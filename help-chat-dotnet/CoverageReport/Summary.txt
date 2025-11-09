@@ -1,0 +1,28 @@
+Summary
+  Generated on: 11/2/2025 - 12:30:41 PM
+  Coverage date: 11/2/2025 - 11:53:38 AM - 11/2/2025 - 12:30:26 PM
+  Parser: MultiReport (3x Cobertura)
+  Assemblies: 1
+  Classes: 6
+  Files: 6
+  Line coverage: 60.6%
+  Covered lines: 423
+  Uncovered lines: 275
+  Coverable lines: 698
+  Total lines: 1041
+  Branch coverage: 31.5% (111 of 352)
+  Covered branches: 111
+  Total branches: 352
+  Method coverage: 79.5% (74 of 93)
+  Full method coverage: 50.5% (47 of 93)
+  Covered methods: 74
+  Fully covered methods: 47
+  Total methods: 93
+
+HelpChat.Lib                                              60.6%
+  HelpChat.Lib.Exceptions.ConfigurationException           100%
+  HelpChat.Lib.Exceptions.HelpChatException                100%
+  HelpChat.Lib.Exceptions.IndexingException               66.6%
+  HelpChat.Lib.Exceptions.LlmRequestException             66.6%
+  HelpChat.Lib.Exceptions.PythonInitializationException   66.6%
+  HelpChat.Lib.HelpChatLib                                59.2%
